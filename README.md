@@ -5,3 +5,4 @@
 There are two tables: products and product_images, which are linked one to many .My project has 3 languages: Kazakh, Russian , English . It is also possible to upload a file, in the form of feedback, which is sent to me by email.
 ##
 My project is an online sportswear store #Shynga_Jet .There is a selection of men's, women's and children's clothing. The online store was created primarily to meet all the criteria of the project Requirements . Also, especially for the beautiful frontend, time was spent on the selection of videos , and writing code .
+<img src="https://drive.google.com/file/d/1IclMQhT45fdr-uUD9kDineShSJz54Iv-/view?usp=sharing">
